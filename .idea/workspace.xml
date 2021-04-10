@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="912e9ad7-eb2c-4d04-9048-dff5557db4e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qyIqZe56HGNiTwkyvAKx9u1DEt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.FindTheLongestSubString">
+    <configuration name="AddTwoNumberFromReverseSinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.AddTwoNumberFromReverseSinglyLinkedList" />
+      <module name="leetcode-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTheLongestSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FindTheLongestSubString" />
+      <module name="leetcode-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TwoSum" />
+      <module name="leetcode-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindTheLongestSubString" />
+        <item itemvalue="Application.AddTwoNumberFromReverseSinglyLinkedList" />
+        <item itemvalue="Application.TwoSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="912e9ad7-eb2c-4d04-9048-dff5557db4e5" name="Default Changelist" comment="" />
+      <created>1618045594900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618045594900</updated>
+      <workItem from="1618045598870" duration="13163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="307" key="GridCell.Tab.0.bottom" timestamp="1618070460384">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="307" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1618070460384" />
+    <state width="1238" height="307" key="GridCell.Tab.0.center" timestamp="1618070460384">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="307" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1618070460384" />
+    <state width="1238" height="307" key="GridCell.Tab.0.left" timestamp="1618070460384">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="307" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1618070460384" />
+    <state width="1238" height="307" key="GridCell.Tab.0.right" timestamp="1618070460384">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="307" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1618070460384" />
+    <state width="1238" height="307" key="GridCell.Tab.1.bottom" timestamp="1618070460296">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="307" key="GridCell.Tab.1.bottom/0.0.1280.770@0.0.1280.770" timestamp="1618070460296" />
+    <state width="1238" height="307" key="GridCell.Tab.1.center" timestamp="1618070460296">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="307" key="GridCell.Tab.1.center/0.0.1280.770@0.0.1280.770" timestamp="1618070460296" />
+    <state width="1238" height="307" key="GridCell.Tab.1.left" timestamp="1618070460296">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="307" key="GridCell.Tab.1.left/0.0.1280.770@0.0.1280.770" timestamp="1618070460296" />
+    <state width="1238" height="307" key="GridCell.Tab.1.right" timestamp="1618070460296">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="307" key="GridCell.Tab.1.right/0.0.1280.770@0.0.1280.770" timestamp="1618070460296" />
+    <state x="303" y="92" width="672" height="678" key="search.everywhere.popup" timestamp="1618046897425">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="303" y="92" width="672" height="678" key="search.everywhere.popup/0.0.1280.770@0.0.1280.770" timestamp="1618046897425" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/AddTwoNumberFromReverseSinglyLinkedList.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/FindTheLongestSubString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
